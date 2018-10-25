@@ -15,3 +15,6 @@ end
 # double pipe equals "will only complete the assignment if
 # the left side of our operation returns false or nil."
 # https://medium.com/@jaredrayjohnson1/ruby-operators-double-pipe-equals-bfcbe21a7177
+# double pipe equals "will only complete the assignment if 
+# the left side of our operation returns false or nil."
+# https://medium.com/@jaredrayjohnson1/ruby-operators-double-pipe-equals-bfcbe21a7177
